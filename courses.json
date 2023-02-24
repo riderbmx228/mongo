@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "63f868e645a12897e0f22751"
+  },
+  "description": "Introduction to web development"
+},{
+  "_id": {
+    "$oid": "63f8691b45a12897e0f22752"
+  },
+  "instructor": "John Doe"
+}]
